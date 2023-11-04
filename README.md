@@ -1,4 +1,4 @@
-# AuthMe 1,19
+# AuthMe 1.19
 **"Лучший плагин авторизации Bukkit modding API!"**
 
 <img src="wallpaper.png?raw=true" alt="AuthMeLogo"/>
